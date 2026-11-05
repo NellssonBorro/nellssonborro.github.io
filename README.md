@@ -1,7 +1,7 @@
 # nellssonborro.github.io
 # [Nelson Borro]
 
-UI/UX Design Student | Software Engineering, [University Name]
+UI/UX Design Student | Software Engineering, Margaret Lawrence University
 
 ## Course Portfolios
 
