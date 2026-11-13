@@ -1,5 +1,5 @@
 # nellssonborro.github.io
-# [Nelson Borro]
+# Nelson Boro
 
 UI/UX Design Student | Software Engineering, Margaret Lawrence University
 
