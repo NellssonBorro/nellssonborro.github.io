@@ -9,5 +9,5 @@ UI/UX Design Student | Software Engineering, Margaret Lawrence University
 
 ## Contact
 
-- Email: you@example.com
+- Email: nelson.boro@mlugalilee.edu.ng
 - GitHub: [@nellssonborro](https://github.com/nellssonborro)
